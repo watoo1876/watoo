@@ -1,6 +1,6 @@
 <div align="center">
 
-<img align="center" width="200" src="https://img.sanishtech.com/u/55d3bb0e2a92417fc6243b16c051867a.png">
+<img align="center" width="300" src="https://img.sanishtech.com/u/0c9d833cfc624640aae1a13f47798d50.png">
 
 </br>
 
@@ -20,7 +20,7 @@ $${\color{#CED3B2}jess}$$ $${\color{#76A8C3}dawn}$$ $${\color{#CED3B2}or}$$ ㅤ 
 
 <div align="center">
 
-<img align="center" width="30" src="https://img.sanishtech.com/u/5d150d06ab58aa1466202ff82e3960f7.png">
+<img align="center" width="90" src="https://img.sanishtech.com/u/91bb7bf3fdb07e1c0b64c87acc7751fa.png">
 
 </br>
 
